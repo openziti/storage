@@ -23,7 +23,7 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/openziti/foundation/storage/ast"
+	"github.com/openziti/storage/ast"
 	"github.com/openziti/foundation/util/stringz"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/require"

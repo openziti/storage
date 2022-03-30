@@ -20,7 +20,7 @@ import (
 	"github.com/michaelquigley/pfxlog"
 	"time"
 
-	"github.com/openziti/foundation/storage/ast"
+	"github.com/openziti/storage/ast"
 	"go.etcd.io/bbolt"
 )
 

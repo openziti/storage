@@ -19,7 +19,7 @@ package boltz
 import (
 	"github.com/google/uuid"
 	"github.com/kataras/go-events"
-	"github.com/openziti/foundation/storage/ast"
+	"github.com/openziti/storage/ast"
 	"github.com/openziti/foundation/util/errorz"
 	"github.com/openziti/foundation/util/stringz"
 	"github.com/pkg/errors"

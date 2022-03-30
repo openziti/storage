@@ -18,7 +18,7 @@ package boltz
 
 import (
 	"bytes"
-	"github.com/openziti/foundation/storage/ast"
+	"github.com/openziti/storage/ast"
 	"github.com/pkg/errors"
 	"go.etcd.io/bbolt"
 	"sort"

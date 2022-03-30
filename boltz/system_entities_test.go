@@ -19,7 +19,7 @@ package boltz
 import (
 	"fmt"
 	"github.com/google/uuid"
-	"github.com/openziti/foundation/storage/ast"
+	"github.com/openziti/storage/ast"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/require"
 	"go.etcd.io/bbolt"

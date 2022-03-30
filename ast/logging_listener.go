@@ -19,7 +19,7 @@ package ast
 import (
 	"fmt"
 	"github.com/antlr/antlr4/runtime/Go/antlr"
-	zitiql "github.com/openziti/foundation/storage/zitiql"
+	zitiql "github.com/openziti/storage/zitiql"
 	"runtime"
 	"strings"
 )
