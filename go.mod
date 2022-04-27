@@ -11,7 +11,7 @@ go 1.17
 require (
 	github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20211106181442-e4c1a74c66bd
 	github.com/biogo/store v0.0.0-20190426020002-884f370e325d
-	github.com/google/go-cmp v0.5.7
+	github.com/google/go-cmp v0.5.8
 	github.com/google/uuid v1.3.0
 	github.com/kataras/go-events v0.0.3-0.20201007151548-c411dc70c0a6
 	github.com/michaelquigley/pfxlog v0.6.9
