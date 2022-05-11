@@ -1,12 +1,6 @@
 module github.com/openziti/storage
 
-go 1.17
-
-// replace github.com/openziti/dilithium => ../dilithium
-
-// replace github.com/kataras/go-events => ../go-events
-
-// replace github.com/michaelquigley/pfxlog => ../pfxlog
+go 1.18
 
 require (
 	github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20211106181442-e4c1a74c66bd
