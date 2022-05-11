@@ -9,7 +9,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/kataras/go-events v0.0.3-0.20201007151548-c411dc70c0a6
 	github.com/michaelquigley/pfxlog v0.6.9
-	github.com/openziti/foundation v0.17.22
+	github.com/openziti/foundation v0.17.23
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.7.1
 	go.etcd.io/bbolt v1.3.6
@@ -17,7 +17,6 @@ require (
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/kr/text v0.2.0 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
