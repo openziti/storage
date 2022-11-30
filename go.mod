@@ -1,6 +1,6 @@
 module github.com/openziti/storage
 
-go 1.18
+go 1.19
 
 require (
 	github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20211106181442-e4c1a74c66bd
