@@ -1,6 +1,6 @@
 module github.com/openziti/storage
 
-go 1.19
+go 1.18
 
 require (
 	github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20211106181442-e4c1a74c66bd
@@ -9,7 +9,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/kataras/go-events v0.0.3-0.20201007151548-c411dc70c0a6
 	github.com/michaelquigley/pfxlog v0.6.9
-	github.com/openziti/foundation/v2 v2.0.8
+	github.com/openziti/foundation/v2 v2.0.9
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.8.1
 	go.etcd.io/bbolt v1.3.6
