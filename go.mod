@@ -3,7 +3,7 @@ module github.com/openziti/storage
 go 1.19
 
 require (
-	github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20211106181442-e4c1a74c66bd
+	github.com/antlr/antlr4/runtime/Go/antlr v1.4.10
 	github.com/biogo/store v0.0.0-20190426020002-884f370e325d
 	github.com/google/go-cmp v0.5.9
 	github.com/google/uuid v1.3.0
