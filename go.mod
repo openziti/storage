@@ -9,7 +9,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/kataras/go-events v0.0.3
 	github.com/michaelquigley/pfxlog v0.6.9
-	github.com/openziti/foundation/v2 v2.0.14
+	github.com/openziti/foundation/v2 v2.0.15
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.8.2
 	go.etcd.io/bbolt v1.3.7
