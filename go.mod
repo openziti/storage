@@ -7,7 +7,6 @@ require (
 	github.com/biogo/store v0.0.0-20190426020002-884f370e325d
 	github.com/google/go-cmp v0.5.9
 	github.com/google/uuid v1.3.0
-	github.com/kataras/go-events v0.0.3
 	github.com/michaelquigley/pfxlog v0.6.10
 	github.com/openziti/foundation/v2 v2.0.21
 	github.com/pkg/errors v0.9.1
