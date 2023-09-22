@@ -3,7 +3,7 @@ module github.com/openziti/storage
 go 1.19
 
 require (
-	github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20211106181442-e4c1a74c66bd
+	github.com/antlr4-go/antlr/v4 v4.13.0
 	github.com/biogo/store v0.0.0-20190426020002-884f370e325d
 	github.com/google/go-cmp v0.5.9
 	github.com/google/uuid v1.3.1
@@ -22,6 +22,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	golang.org/x/crypto v0.1.0 // indirect
+	golang.org/x/exp v0.0.0-20230515195305-f3d0a9c9a5cc // indirect
 	golang.org/x/sys v0.12.0 // indirect
 	golang.org/x/term v0.12.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
