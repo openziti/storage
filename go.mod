@@ -1,6 +1,7 @@
 module github.com/openziti/storage
 
 go 1.22
+toolchain go1.23.6
 
 require (
 	github.com/antlr4-go/antlr/v4 v4.13.1
@@ -11,7 +12,7 @@ require (
 	github.com/openziti/foundation/v2 v2.0.57
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.10.0
-	go.etcd.io/bbolt v1.3.11
+	go.etcd.io/bbolt v1.4.0
 )
 
 require (
