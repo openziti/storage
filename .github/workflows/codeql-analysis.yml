@@ -52,7 +52,7 @@ jobs:
         # queries: ./path/to/local/query, your-org/your-repo/queries@main
 
     - name: Install Go
-      uses: actions/setup-go@v5
+      uses: actions/setup-go@v6
       with:
         go-version: stable
 
