@@ -209,8 +209,8 @@ github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742/go.mod h1:bx2lN
 github.com/modern-go/reflect2 v1.0.1/go.mod h1:bx2lNnkwVCuqBIxFjflWJWanXIb3RllmbCylyMrvgv0=
 github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e h1:fD57ERR4JtEqsWbfPhv4DMiApHyliiK5xCTNVSPiaAs=
 github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e/go.mod h1:zD1mROLANZcx1PVRCS0qkT7pwLkGfwJo4zjcN/Tysno=
-github.com/openziti/foundation/v2 v2.0.72 h1:vy1rTS2IEbnPu+l/pf7b5mbkN48WU3ynfbkHN50G13I=
-github.com/openziti/foundation/v2 v2.0.72/go.mod h1:rdyV/BbU8iMi8bG027E4uYK7igNHQdJE54ECeWfrqnI=
+github.com/openziti/foundation/v2 v2.0.73 h1:PG3JPH4k8gSIYN4TAqzDcQ6urE2O6g6vuJtHEk3uhzI=
+github.com/openziti/foundation/v2 v2.0.73/go.mod h1:tThEMMMvp2bkwy1E6ZOv7dZ5lHjFu3C4yPHJv+CiDOo=
 github.com/pascaldekloe/goe v0.0.0-20180627143212-57f6aae5913c/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
 github.com/pelletier/go-toml v1.9.3/go.mod h1:u1nR/EPcESfeI/szUZKdtJ0xRNbUoANCkoOuaOx1Y+c=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
