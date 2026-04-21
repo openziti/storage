@@ -1,3 +1,7 @@
+# PROJECT IS Archived
+
+The code for this project has been merged into the openziti/ziti project.
+
 # Overview
 This library contains a entity framework for bbolt, including CRUD (Create, Read, Update, Delete) and query operations, a filtering DSL (Domain Specific Language) as well as an AST (Abstract Syntax Tree) for the DSL
 
